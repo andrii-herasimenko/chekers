@@ -1,0 +1,220 @@
+body{
+	
+}
+
+/* Layout */
+.ba-container{
+	max-width: 1200px;
+}
+
+/* Typography */
+a,
+input[type="submit"],
+input[type="button"],
+button{
+	transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in;
+}
+input[type="submit"],
+input[type="button"],
+button,
+.ba-button{
+	display: inline-block;
+}
+input[type="submit"]:hover,
+input[type="button"]:hover,
+button:hover,
+.ba-button:hover{
+
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="tel"],
+textarea,
+select {
+	transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+textarea:focus,
+select:focus {
+
+}
+textarea {
+
+}
+.ba-white {
+	height: 90%;
+	width: 90%;
+	left: 5%;
+	top: 5%;
+	border-radius: 50%;
+	background: #FFF884;
+}
+.ba-black{
+	height: 90%;
+	width: 90%;
+	left: 5%;
+	top: 5%;
+	border-radius: 50%;
+	background: #294b5c;	
+}
+.ba-square{
+	height: 12.5%;
+    width: 12.5%;
+    background: #B2B1B2;
+}
+.col-1 div {
+	position: absolute;
+}
+.col-in-col-1{
+	left: 0;
+}
+.col-in-col-2{
+	left: 25%;
+}
+.col-in-col-3{
+	left: 50%;
+}
+.col-in-col-4 {
+	left: 75%;
+}
+.col-2 div{
+	position: absolute;
+}
+.col-in-col-5{
+	left: 12.5%;
+	top: 12.5%;
+}
+.col-in-col-6{
+	left: 37.5%;
+	top: 12.5%;
+}
+.col-in-col-7{
+	left: 62.5%;
+	top: 12.5%;
+}
+.col-in-col-8{
+	left: 87.5%;
+	top: 12.5%;
+}
+.col-3 div{
+	position: absolute;
+}
+.col-in-col-9{
+	left: 0;
+	top: 25%;
+}
+.col-in-col-10{
+	left: 25%;
+	top: 25%;
+}
+.col-in-col-11{
+	left: 50%;
+	top: 25%;;
+}
+.col-in-col-12{
+	left: 75%;
+	top: 25%;
+}
+.col-4 div{
+	position: absolute;
+}
+.empty-1{
+	left: 12.5%;
+	top: 37.5%;
+}
+.empty-2{
+	left: 37.5%;
+	top: 37.5%;
+}
+.empty-3{
+	left: 62.5%;
+	top: 37.5%;
+}
+.empty-4{
+	left: 87.5%;
+	top: 37.5%;
+}
+.col-5 div{
+	position: absolute;
+}
+.empty-5{
+	top: 50%;
+	left: 0;
+}
+.empty-6{
+	top: 50%;
+	left: 25%;
+}
+.empty-7{
+	top: 50%;
+	left: 50%;
+}
+.empty-8{
+	top: 50%;
+	left: 75%;
+}
+.col-6 div{
+	position: absolute;
+}
+.col-in-col-13{
+	left: 12.5%;
+	top: 62.5%;
+}
+.col-in-col-14{
+	left: 37.5%;
+	top: 62.5%;
+}
+.col-in-col-15{
+	left: 62.5%;
+	top: 62.5%;
+}
+.col-in-col-16{
+	left: 87.5%;
+	top: 62.5%;
+}
+.col-7 div{
+	position: absolute;
+}
+.col-in-col-17{
+	left: 0;
+	top: 75%;
+}
+.col-in-col-18{
+	left: 25%;
+	top: 75%;
+}
+.col-in-col-19{
+	left: 50%;
+	top: 75%;
+}
+.col-in-col-20{
+	left: 75%;
+	top: 75%;
+}
+.col-8 div{
+	position: absolute;
+}
+.col-in-col-21{
+	left: 12.5%;
+	top: 87.5%;
+}
+.col-in-col-22{
+	left: 37.5%;
+	top: 87.5%;
+}
+.col-in-col-23{
+	left: 62.5%;
+	top: 87.5%;
+}
+.col-in-col-24{
+	left: 87.5%;
+	top: 87.5%;
+}
