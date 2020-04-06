@@ -49,6 +49,17 @@ select:focus {
 textarea {
 
 }
+.ba-main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.ba-table{
+	width: 800px;
+	height: 800px;
+	position: relative;
+	border: 3px solid plum;
+}
 .ba-white {
 	height: 90%;
 	width: 90%;
