@@ -5,6 +5,7 @@ body{
 /* Layout */
 .ba-container{
 	max-width: 1200px;
+	min-width: 800px;
 }
 
 /* Typography */
